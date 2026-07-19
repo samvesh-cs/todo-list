@@ -32,4 +32,4 @@ git clone https://github.com/samvesh-cs/todo-list.git
 - Add input validation feedback (e.g., shake animation on empty submit)
 
 ## Author
-Samvesh Patil
+Samvesh Patil — [GitHub](https://github.com/samvesh-cs)
