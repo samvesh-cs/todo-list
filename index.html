@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>To-Do List</title>
+    <link rel="stylesheet" href="style.css" />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap"
+      rel="stylesheet"
+    />
+    <link
+      href="https://cdn.jsdelivr.net/npm/remixicon@4.9.0/fonts/remixicon.css"
+      rel="stylesheet"
+    />
+  </head>
+  <body>
+    <div class="main-container">
+      <h1>To Do List</h1>
+      <form>
+        <input
+          class="task-input"
+          type="text"
+          placeholder="Start writing and press enter to create task"
+        />
+      </form>
+      <div class="task-container task-container-initial">
+        <div class="incomplete"></div>
+        <div class="complete"></div>
+      </div>
+      <button class="clearBtn">Clear</button>
+    </div>
+    <script src="script.js"></script>
+  </body>
+</html>
