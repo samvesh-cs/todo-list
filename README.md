@@ -3,7 +3,7 @@
 A simple, dark-themed to-do list app built with vanilla JavaScript. Tasks persist across browser sessions using LocalStorage — no backend required.
 
 ## Live Demo
-[Add your GitHub Pages link here once deployed]
+https://github.com/samvesh-cs/todo-list.git
 
 ## Features
 - Add tasks by typing and pressing Enter
